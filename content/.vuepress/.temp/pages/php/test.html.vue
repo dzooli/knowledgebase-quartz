@@ -1,8 +1,0 @@
-<template><div><h1 id="selenium" tabindex="-1"><a class="header-anchor" href="#selenium" aria-hidden="true">#</a> Selenium</h1>
-<h2 id="start-a-standalone-selenium-with-chrome" tabindex="-1"><a class="header-anchor" href="#start-a-standalone-selenium-with-chrome" aria-hidden="true">#</a> Start a standalone Selenium with Chrome</h2>
-<div class="language-bash ext-sh line-numbers-mode"><pre v-pre class="language-bash"><code><span class="token function">docker</span> run <span class="token parameter variable">-d</span> <span class="token parameter variable">-p</span> <span class="token number">4444</span>:4444 <span class="token parameter variable">-p</span> <span class="token number">7901</span>:7900 <span class="token parameter variable">--name</span> selenium_standalone <span class="token parameter variable">-e</span> <span class="token assign-left variable">SE_NODE_OVERRIDE_MAX_SESSIONS</span><span class="token operator">=</span>true <span class="token parameter variable">-e</span> <span class="token assign-left variable">SE_NODE_MAX_SESSIONS</span><span class="token operator">=</span><span class="token number">4</span> <span class="token parameter variable">-v</span> /dev/shm:/dev/shm selenium/standalone-chrome:4.0.0-beta-3-prerelease-20210402
-</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>Then configure the test automation software with Hub <code v-pre>http://localhost:4444/wd/hub</code> and target URL as <code v-pre>http://host.docker.internal[:&lt;YOUR_PORT&gt;]/</code></p>
-<p>This image includes a VNC over HTTP possibility which is exposed to <code v-pre>http://localhost:7901</code> and the password is <strong>secret</strong>.</p>
-</div></template>
-
-
