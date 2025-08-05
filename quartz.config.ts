@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "https://dzooli.github.io/knowledgebase-quartz",
     ignorePatterns: ["private", "templates", ".obsidian", ".vuepress"],
     defaultDateType: "modified",
     theme: {

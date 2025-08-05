@@ -18,6 +18,7 @@ Here are a collection of tips, tricks and various useful information about softw
 - [[devops/|DevOps]]
 - [[dbs/|Databases]]
 - [[frontend/|Frontend Technologies and Frameworks]]
+- [[development/]]
 - Languages:
 	- [[php/|PHP]]
 	- [[python/|Python]]
