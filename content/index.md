@@ -18,9 +18,9 @@ Here are a collection of tips, tricks and various useful information about softw
 - [[devops/index.md|DevOps]]
 - [[dbs/index.md|Databases]]
 - [[development/index.md|Generic Development Tips and Tricks]]
-  - [[frontend/index.md|Frontend Technologies and Frameworks]]
-  - Languages:
-  	- [[php/index.md|PHP]]
-  	- [[python/index.md|Python]]
+- [[frontend/index.md|Frontend Technologies and Frameworks]]
+- Languages:
+	- [[php/index.md|PHP]]
+	- [[python/index.md|Python]]
 - [[testing/index.md|QA and Software Testing]]
 - [[ai/index.md|Artifical Intelligence]]
