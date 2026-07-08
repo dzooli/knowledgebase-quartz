@@ -1,5 +1,10 @@
 ---
 title: Frontend
+description: Various useful tips for frontend developers
+tags:
+  - development
+  - frontend
+  - tips
 ---
 
 # HTML + Bootstrap

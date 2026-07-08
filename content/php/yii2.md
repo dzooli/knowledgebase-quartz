@@ -1,3 +1,11 @@
+---
+title: Yii2 Snippets
+tags:
+    - php
+    - yii2
+    - development
+---
+
 # Yii2 snippets
 
 ## Working datepicker for Yii2 with Kartik's DatePicker

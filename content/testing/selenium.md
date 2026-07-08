@@ -1,3 +1,11 @@
+---
+title: Selenium
+tags:
+    - selenium
+    - testing
+    - framework
+---
+
 # Selenium
 
 ## Standalone server with Chrome in Docker

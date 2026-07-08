@@ -1,3 +1,12 @@
+---
+title: PHP tips and tricks
+tags:
+    - php
+    - security
+    - tips
+    - development
+---
+
 # PHP Utils
 
 ## Password generator

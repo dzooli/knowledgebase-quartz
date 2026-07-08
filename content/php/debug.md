@@ -1,3 +1,11 @@
+---
+title: Debugging PHP
+tags:
+    - php
+    - debug
+    - docker
+---
+
 # Docker based
 
 ## Setup xDebug 2 for PHP development

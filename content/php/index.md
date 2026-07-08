@@ -1,5 +1,8 @@
 ---
 title: PHP
+tags:
+    - php
+    - development
 ---
 
 # General PHP

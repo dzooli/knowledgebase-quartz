@@ -3,6 +3,8 @@ title: Python
 tags:
   - knowledge
   - awesome
+  - packages
+  - development
 ---
 # Python
 

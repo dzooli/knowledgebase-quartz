@@ -1,5 +1,9 @@
 ---
 title: JQuery
+tags:
+    - development
+    - frontend
+    - jquery
 ---
 
 # jQuery

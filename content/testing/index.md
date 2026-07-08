@@ -1,5 +1,9 @@
 ---
 title: QA & Testing
+tags:
+    - testing
+    - testing_theory
+    - selenium
 ---
 
 # Various QA-related topics

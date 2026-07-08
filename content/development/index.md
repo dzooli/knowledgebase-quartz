@@ -4,6 +4,7 @@ description: Resources and guides for software development.
 date: 2024-06-11
 tags:
     - development
+    - perforce
     - generic
     - tips
 ---
@@ -35,7 +36,7 @@ tags:
 
 ---
 
-### Example `p4config.txt`
+### Example `.p4config`
 
 ```txt
 P4PORT=perforce:1666
@@ -44,7 +45,7 @@ P4CLIENT=yourworkspace
 P4PASSWD=yourpassword
 ```
 
-Place `p4config.txt` in your workspace directory and set the `P4CONFIG` environment variable to its filename.
+Place `.p4config` in your workspace directory and set the `P4CONFIG` environment variable to its filename.
 
 ---
 
@@ -93,3 +94,7 @@ p4 set > p4env.txt
     ```sh
     p4 switch //my_stream_depot/dev
     ```
+
+## More topics
+
+- [[perforce_client_setup|Perforce Client Setup]]

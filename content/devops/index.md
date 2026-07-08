@@ -1,5 +1,9 @@
 ---
 title: DevOps
+tags:
+    - devops
+    - jenkins
+    - virtualbox
 ---
 
 ## Jenkins

@@ -1,6 +1,8 @@
 ---
 title: Databases
 author: Zoltan Fabian
+tags:
+    - database
 ---
 # MySQL
 

@@ -9,7 +9,7 @@ tags:
   - knowledge
 ---
 
-# dzooli's developer knowledgebase
+# Dzooli's Developer Knowledgebase
 
 Here are a collection of tips, tricks and various useful information about software development collected during my  professional carreer.
 
